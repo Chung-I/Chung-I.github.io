@@ -18,7 +18,7 @@ National Taiwan University](https://comm.ntu.edu.tw/en/), advised by [Hung-Yi Le
 
 **What does a network layer hear? Analyzing hidden representations of end-to-end
 ASR through speech synthesis**<br>
-<u>Chung-Yi Li\*</u>, Pei-chieh Yuan\*, Hung-Yi Lee<br>
+<u>Chung-Yi Li*</u>, Pei-chieh Yuan\*, Hung-Yi Lee<br>
  [ [pdf](https://arxiv.org/abs/1911.01102) | [demo](https://yuanpj.github.io/Voice-in-ASR/) ]
 
 **Language Representation in Multilingual BERT and its applications to improve Cross-lingual Generalization**<br>
