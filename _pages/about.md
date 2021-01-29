@@ -23,7 +23,8 @@ ASR through speech synthesis**<br>
  [ [pdf](https://arxiv.org/abs/1911.01102) | [demo](https://yuanpj.github.io/Voice-in-ASR/) ]
 
 **Language Representation in Multilingual BERT and its applications to improve Cross-lingual Generalization**<br>
-Chi-Liang Liu, Tsung-Yuan Hsu, Yung-Sung Chuang, <u>Chung-Yi Li</u>, Hung-yi Lee
+Chi-Liang Liu, Tsung-Yuan Hsu, Yung-Sung Chuang, <u>Chung-Yi Li</u>, Hung-yi
+Lee<br>
 *Under Review*<br/>
 [ [pdf](https://arxiv.org/abs/2010.10041) ]
 
